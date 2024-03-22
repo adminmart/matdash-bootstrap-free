@@ -1,0 +1,228 @@
+// ----------------------------------------------
+// Variables Style
+// ----------------------------------------------
+
+
+// colors
+$white: #fff !default;
+$gray-100: #f6f7f9 !default;
+$gray-200: #eff4fa !default;
+$gray-300: #dfe5ef !default;
+$gray-400: #7c8fac !default;
+$gray-500: #5a6a85 !default;
+$gray-600: #29343d !default;
+$black: #000 !default;
+
+// Color
+$blue: #5d87ff !default;
+$indigo: #6610f2 !default;
+$purple: #6f42c1 !default;
+$pink: #d63384 !default;
+$red: #ff6692 !default;
+$orange: #fd7e14 !default;
+$yellow: #ffd648 !default;
+$green: #36c76c !default;
+$teal: #20c997 !default;
+$cyan: #539bff !default;
+
+// Main Colors
+$primary: #635bff !default;
+$secondary: #14e9e2 !default;
+$success: #36c76c !default;
+$info: #46caeb !default;
+$warning: $yellow !default;
+$danger: $red !default;
+$light: $gray-200 !default;
+$muted: #526b7a !default;
+$dark: #0a2540 !default;
+$dark-light: $gray-600 !default;
+$light-gray: $gray-100 !default;
+
+// light colors
+$light-primary: #e0deff;
+$light-secondary: #d0fbf9;
+$light-info: #daf4fb;
+$light-success: #e1f7e9;
+$light-warning: #fff7da;
+$light-danger: #ffd9e4;
+$light-indigo: #daf4fb;
+
+
+// Theme Colorss
+$theme-colors: (
+  "primary": $primary,
+  "secondary": $secondary,
+  "success": $success,
+  "info": $info,
+  "warning": $warning,
+  "danger": $danger,
+  "light": $light,
+  "dark": $dark,
+  "muted": $muted,
+  "indigo": $indigo,
+  "light-primary": $light-primary,
+  "light-secondary": $light-secondary,
+  "light-info": $light-info,
+  "light-success": $light-success,
+  "light-warning": $light-warning,
+  "light-danger": $light-danger,
+  "light-indigo": $light-indigo,
+  "dark-light": $dark-light,
+  "light-gray": $light-gray,
+  ) !default;
+
+// Spacer
+$spacer: 1rem !default;
+$spacers: (
+  0: 0,
+  1: $spacer * 0.25,
+  2: $spacer * 0.5,
+  3: $spacer,
+  4: $spacer * 1.5,
+  5: $spacer * 3,
+  6: 12px,
+  7: 30px,
+  8: 10px,
+  9: 20px,
+  ) !default;
+
+// Common
+$min-contrast-ratio: 1.7 !default;
+
+// Margins
+$enable-negative-margins: true !default;
+$enable-shadows: true !default;
+
+// Global
+$text-muted: $muted !default;
+$grid-gutter-width: 24px !default;
+
+// Font Weight
+$font-weight-lighter: 300 !default;
+$font-weight-light: 300 !default;
+$font-weight-normal: 400 !default;
+$font-weight-bold: 500 !default;
+$font-weight-bolder: 700 !default;
+$font-weight-base: $font-weight-normal !default;
+
+// Buttons
+$btn-padding-y: 9px !default;
+$btn-padding-x: 16px !default;
+$btn-font-weight: 500 !default;
+$btn-border-radius: 8px !default;
+$btn-box-shadow: unset !default;
+$btn-font-size: 14px   !default;
+$btn-border-radius-lg: 9px !default;
+
+// Font Family
+$font-family-sans-serif: "Manrope", sans-serif !default;
+
+// Font Sizes
+$font-sizes: (
+  1: 10px,
+  2: 12px,
+  3: 14px,
+  4: 16px,
+  5: 18px,
+  6: 20px,
+  8: 30px,
+  ) !default;
+$font-size-base: 0.875rem !default;
+
+// Line Heght
+$line-height-base: 1.5 !default;
+$line-height-sm: 1.25 !default;
+$line-height-lg: 2 !default;
+
+// Body
+$body-bg: $white !default;
+$body-color: #98a4ae !default;
+
+// Heading
+$headings-color: #29343d !default;
+$headings-font-weight: 500 !default;
+
+// Border Color
+$border-color: #e0e6eb !default;
+
+// Card
+$card-bg: $white !default;
+$card-title-color: $dark !default;
+$card-subtitle-color: rgba($dark, 0.6) !default;
+$card-spacer-y: 30px !default;
+$card-spacer-x: 30px !default;
+$card-border-width: 0px !default;
+$card-border-color: #ebf1f6 !default;
+$card-border-radius: 12px;
+$card-box-shadow: 0px 2px 4px -1px #afb6c933 !default;
+
+// Border Radius
+$border-radius: 12px !default;
+$border-radius-sm: 8px !default;
+$border-radius-lg: 15px !default;
+$border-radius-xl: 18px !default;
+
+// Badges
+$badge-font-size: 13px !default;
+$badge-font-weight: 600 !default;
+$badge-padding-y: 5px !default;
+$badge-padding-x: 10px !default;
+$badge-border-radius: 6px;
+
+
+// Table
+$table-cell-padding-y: 14px !default;
+$table-cell-padding-x: 24px !default;
+$table-th-font-weight: 600 !default;
+$table-striped-bg: $gray-200 !default;
+$table-hover-bg: $gray-100 !default;
+$table-border-color: #111c2d0d !default;
+$table-bg: $white !default;
+$table-color: var(--bs-body-color) !default;
+$table-cell-padding-y-sm: 12px !default;
+$table-cell-padding-x-sm: 12px !default;
+
+
+// Input
+$form-label-color: $gray-600;
+$form-label-font-weight: 600;
+$form-select-indicator-padding: 38px;
+$form-select-border-radius: 8px !default;
+$form-select-box-shadow: unset !default;
+$input-border-radius: 8px !default;
+$input-group-addon-bg: $gray-200 !default;
+$input-group-addon-border-color: $light !default;
+$input-border-color: #e0e6eb !default;
+$input-bg: transparent !default;
+$input-color: var(--bs-heading-color) !default;
+$input-padding-y: 10px;
+$input-padding-x: 16px;
+$form-check-input-width: 1.313em;
+$form-check-min-height: 1.313em;
+$form-check-input-border: 1.25px solid #bdc3cd;
+$input-placeholder-color: var(--bs-heading-color) !default;
+
+// Dropdown
+$dropdown-border-radius: $border-radius !default;
+$dropdown-width: 360px !default;
+$dropdown-border-width: 0 !default;
+$dropdown-item-padding-y: 10px !default;
+$dropdown-link-hover-bg: $gray-100 !default;
+$dropdown-link-active-bg: $gray-100;
+$dropdown-link-active-color: $dark;
+$dropdown-box-shadow: rgb(145 158 171 / 20%) 0px 0px 2px 0px,
+  rgb(145 158 171 / 12%) 0px 12px 24px -4px;
+$link-color: #29343d !default;
+$dropdown-bg: $white !default;
+$dropdown-link-color:  var(--bs-heading-color) !default;
+$dropdown-link-hover-color:         $primary !default;
+$dropdown-link-hover-bg:            $gray-100 !default; 
+
+// Modal
+$modal-content-border-width: 0 !default;
+
+// navbar
+$navbar-light-color: rgba($gray-600, 1) !default;
+$navbar-light-hover-color: rgba($primary, 1) !default;
+$navbar-dark-color: rgba($gray-300, 1) !default;
+$navbar-dark-hover-color: rgba($primary, 1) !default;
