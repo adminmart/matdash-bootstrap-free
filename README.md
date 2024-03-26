@@ -1,4 +1,4 @@
-# <a href="https://bootstrapdemos.adminmart.com/matdash-free/src/html/index.html">Modernize Free Bootstrap</a>
+# <a href="https://bootstrapdemos.adminmart.com/matdash-free/src/html/index.html">Matdash Free Bootstrap</a>
 Matdash Bootstrap 5 admin Template
 
 <!-- Main image of Template -->
