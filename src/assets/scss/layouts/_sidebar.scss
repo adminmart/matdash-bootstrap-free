@@ -27,12 +27,17 @@
   padding: $sidebar-spacing-x;
 }
 
-.unlimited-access {
-  padding: 18px 22px 25px;
-  margin: 0 -5px;
+.sidebar-divider {
+  height: 0.5px;
+  display: block;
+  margin: 12px 0;
+  background: var(--bs-border-color);
+  width: 100%;
+}
 
+.unlimited-access {
   .unlimited-access-img {
-    margin: -35px -5px 0 -43px;
+    margin: 0 -30px 0 0;
   }
 }
 
@@ -86,10 +91,6 @@
         }
       }
 
-      .link-disabled {
-        opacity: $link-disabled;
-      }
-
       &.selected>.sidebar-link.active,
       &.selected>.sidebar-link,
       >.sidebar-link.active {
@@ -103,14 +104,4 @@
 
     }
   }
-
-  .sidebar-list {
-    .sidebar-list-item {
-      padding: 8px 0;
-    }
-  }
-}
-
-.collapse.in {
-  display: block;
 }

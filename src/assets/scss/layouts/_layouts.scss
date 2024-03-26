@@ -9,13 +9,17 @@
 
 .body-wrapper {
   position: relative;
-  margin-bottom: 30px;
   border-radius: 20px;
-  background: #f4f7fb;
+  height: calc(100vh - 110px);
 
   .body-wrapper-inner{
     margin-top: 80px;
     border-radius: 20px !important;
+    margin-bottom: 30px;
+    background: #f4f7fb;
+    height: 100%;
+    margin-left: calc(#{$grid-gutter-width} / 2);
+    margin-right: calc(#{$grid-gutter-width} / 2);
   }
 
   .container-fluid {
@@ -105,6 +109,7 @@
       &.show-sidebar {
         .left-sidebar {
           left: 0;
+          box-shadow: 0 0.5rem 1rem rgba(0,0,0,0.15);
         }
       }
     }

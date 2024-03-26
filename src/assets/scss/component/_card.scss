@@ -13,11 +13,3 @@
 .card {
     margin-bottom: 30px;
 }
-
-.card-hover {
-    transition: 0.2s ease-in;
-
-    &:hover {
-        transform: translate3d(0px, -5px, 0px);
-    }
-}

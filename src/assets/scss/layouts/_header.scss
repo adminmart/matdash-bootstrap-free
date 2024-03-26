@@ -34,55 +34,6 @@
           z-index: 2;
         }
       }
-
-      &.quick-links {
-        .nav-item {
-          .nav-link {
-            font-size: $font-size-base;
-            position: relative;
-            z-index: 2;
-          }
-
-          &:hover {
-            .nav-link {
-              transition: all 0.1s ease-in-out;
-              color: $primary !important;
-
-              &:before {
-                content: "";
-                position: absolute;
-                left: 0;
-                right: 0;
-                height: 36px;
-                width: 100%;
-                border-radius: $border-radius;
-                background: $light-primary;
-                z-index: -1;
-              }
-            }
-          }
-        }
-      }
-    }
-  }
-}
-
-.nav-icon-hover {
-  transition: all .3s ease-in-out;
-
-  &:hover {
-    &::before {
-      content: "";
-      position: absolute;
-      left: 50%;
-      top: 50%;
-      transform: translate(-50%, -50%);
-      height: 40px;
-      width: 40px;
-      z-index: -1;
-      border-radius: 100px;
-      transition: all .3s ease-in-out;
-      background-color: $light-primary;
     }
   }
 }
@@ -126,66 +77,6 @@
 
   .navbar-nav .nav-item.dropdown {
     position: static;
-  }
-}
-
-@-webkit-keyframes animation-dropdown-menu-move-up-scroll {
-  from {
-    top: 71px;
-  }
-
-  to {
-    top: 70px;
-  }
-}
-
-@keyframes animation-dropdown-menu-move-up-scroll {
-  from {
-    top: 71px;
-  }
-
-  to {
-    top: 70px;
-  }
-}
-
-@-webkit-keyframes animation-dropdown-menu-fade-in {
-  from {
-    opacity: 0;
-  }
-
-  to {
-    opacity: 1;
-  }
-}
-
-@keyframes animation-dropdown-menu-fade-in {
-  from {
-    opacity: 0;
-  }
-
-  to {
-    opacity: 1;
-  }
-}
-
-.dropdown-menu-animate-up {
-  -webkit-animation: animation-dropdown-menu-fade-in 0.5s ease 1, animation-dropdown-menu-move-up 0.5s ease-out 1;
-  animation: animation-dropdown-menu-fade-in 0.5s ease 1, animation-dropdown-menu-move-up 0.5s ease-out 1;
-}
-
-
-@keyframes fadeInUp {
-  from {
-    opacity: 0;
-    -webkit-transform: translate3d(0, 100%, 0);
-    transform: translate3d(0, 100%, 0);
-  }
-
-  to {
-    opacity: 1;
-    -webkit-transform: none;
-    transform: none;
   }
 }
 
