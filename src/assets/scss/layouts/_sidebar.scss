@@ -12,7 +12,7 @@
 
   .scroll-sidebar {
     overflow-y: auto;
-    padding: $sidebar-spacing-x;
+    padding: 0 16px 0 28px;
     height: calc(100vh - 80px);
     border-radius: $border-radius;
 
@@ -24,7 +24,7 @@
 
 .brand-logo {
   min-height: $header-height;
-  padding: $sidebar-spacing-x;
+  padding: 0 28px;
 }
 
 .sidebar-divider {

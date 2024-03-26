@@ -1,18 +1,18 @@
-@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@200;300;400;500;600;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
 
 :root {
-    --bs-font-sans-serif: "Plus Jakarta Sans",
+    --bs-font-sans-serif: "Manrope",
     sans-serif;
-    --bs-primary: #5D87FF;
-    --bs-secondary: #49BEFF;
-    --bs-danger: #FA896B;
+    --bs-primary: #635bff;
+    --bs-secondary: #14e9e2;
+    --bs-danger: #ff6692;
     --bs-body-font-size: 0.875rem;
   --bs-body-font-weight: 400;
   --bs-body-line-height: 1.5;
-  --bs-body-color: #5A6A85;
+  --bs-body-color: #98a4ae;
   --bs-body-bg: #fff;
-  --bs-border-color: #ebf1f6;
-  --bs-heading-color: #2A3547;
+  --bs-border-color: #e0e6eb;
+  --bs-heading-color: #29343d;
   --bs-border-radius: 7px;
     --bs-gutter-x: 24px;
     --bs-btn-font-size: 0.875rem;
@@ -109,8 +109,8 @@
 .card {
     --bs-card-spacer-y: 30px;
     --bs-card-spacer-x: 30px;
-    --bs-card-title-color: #2A3547;
-    --bs-card-subtitle-color: #2A3547;
+    --bs-card-title-color: #0a2540;
+    --bs-card-subtitle-color: #0a2540;
     --bs-card-border-width: 0px;
     --bs-card-box-shadow: rgba(145, 158, 171, 0.2) 0px 0px 2px 0px,rgba(145, 158, 171, 0.12) 0px 12px 24px -4px;
     --bs-card-inner-border-radius: 7px;
