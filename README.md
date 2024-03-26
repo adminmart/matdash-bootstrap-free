@@ -1,9 +1,9 @@
-# <a href="https://demos.adminmart.com/free/bootstrap/modernize-bootstrap-lite/src/html/index.html/?ref=5">Modernize Free Bootstrap</a>
-Modernize Bootstrap 5 admin Template
+# <a href="https://bootstrapdemos.adminmart.com/matdash-free/src/html/index.html">Modernize Free Bootstrap</a>
+Matdash Bootstrap 5 admin Template
 
 <!-- Main image of Template -->
-<a target="_blank" href="https://adminmart.com/product/modernize-free-bootstrap-5-admin-template/?ref=5">
-  <img src="https://adminmart.com/wp-content/uploads/2023/02/modenize-free-bootstrap-admin-template.png" />
+<a target="_blank" href="https://bootstrapdemos.adminmart.com/matdash-free/src/html/index.html">
+  <img src="https://adminmart.com/wp-content/uploads/2024/03/matdash-free-bootstrap-5-admin-dashboard.jpg" />
 </a>
 
 
@@ -12,25 +12,25 @@ Modernize Bootstrap 5 admin Template
 <table>
 <thead>
 <tr>
-<th>Modernize Bootstrap Free Version</th>
-<th>Modernize Bootstrap Pro Version</th>
+<th>Matdash Bootstrap Free Version</th>
+<th>Matdash Bootstrap Pro Version</th>
 </tr>
 </thead>
 <tbody>
 <tr>
   <td>
-    <a href="https://demos.adminmart.com/free/bootstrap/modernize-bootstrap-lite/src/html/index.html/?ref=5">Live Preview</a>
+    <a href="https://bootstrapdemos.adminmart.com/matdash-free/src/html/index.html">Live Preview</a>
   </td>
   <td>
-  <a href="https://demos.adminmart.com/premium/bootstrap/modernize-bootstrap/landingpage/index.html/?ref=5">Live Preview</a>
+  <a href="https://adminmart.com/product/matdash-bootstrap-5-admin-dashboard-template/#product-demo-section">Live Preview</a>
   </td>
 </tr>
 <tr>
   <td>
-    <a href="https://adminmart.com/product/modernize-free-bootstrap-5-admin-template/?ref=5">Download Now</a>
+    <a href="https://adminmart.com/product/modernize-free-bootstrap-5-admin-template/">Download Now</a>
   </td>
   <td>
-    <a href="https://adminmart.com/product/modernize-bootstrap-5-admin-template/?ref=5">Purchase Now</a>
+    <a href="https://adminmart.com/product/matdash-bootstrap-5-admin-dashboard-template/">Purchase Now</a>
   </td>
 </tr>
 <tr>
@@ -38,7 +38,7 @@ Modernize Bootstrap 5 admin Template
   1 Basic Dashboard
   </td>
   <td>
-  6+ Stunning Dashboards
+  2+ Stunning Dashboards
   </td>
 </tr>
 <tr>
@@ -70,7 +70,7 @@ Modernize Bootstrap 5 admin Template
   10+ Pages Template
   </td>
   <td>
-  425+ Page Templates
+  690+ Page Templates
   </td>
 </tr>
 <tr>
@@ -78,7 +78,7 @@ Modernize Bootstrap 5 admin Template
   5+ UI Components
   </td>
   <td>
-  100+ UI Components
+  150+ UI Components
   </td>
 </tr>
 <tr>
@@ -173,12 +173,12 @@ Modernize Bootstrap 5 admin Template
 
 # Upgrade to Premium version
 
-<a target="_blank" href="https://adminmart.com/product/modernize-bootstrap-5-admin-template/?ref=5">
-  <img src="https://adminmart.com/wp-content/uploads/2023/02/modernize-bootstrap-5-admin-template.png" alt="">
+<a target="_blank" href="https://adminmart.com/product/matdash-bootstrap-5-admin-dashboard-template/">
+  <img src="https://adminmart.com/wp-content/uploads/2024/03/matdash-bootstrap-admin-dashboard.png" alt="">
 </a>
 <p>
   Checkout our premium version of Modernize Bootstrap Admin Lite for lots more features and ready to use page templates.<br>
-  <a href="https://demos.adminmart.com/premium/bootstrap/modernize-bootstrap/landingpage/index.html/?ref=5">Check Live Preview</a> | <a href="https://adminmart.com/product/modernize-bootstrap-5-admin-template/?ref=5">Download</a>
+  <a href="https://adminmart.com/product/matdash-bootstrap-5-admin-dashboard-template/#product-demo-section">Check Live Preview</a> | <a href="https://adminmart.com/product/matdash-bootstrap-5-admin-dashboard-template/">Download</a>
 </p>
 
 
