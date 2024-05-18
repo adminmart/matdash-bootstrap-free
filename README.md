@@ -38,7 +38,7 @@ Matdash Bootstrap 5 admin Template
   1 Basic Dashboard
   </td>
   <td>
-  2+ Stunning Dashboards
+  3+ Stunning Dashboards
   </td>
 </tr>
 <tr>
