@@ -30,7 +30,7 @@ Matdash Bootstrap 5 admin Template
     <a href="https://adminmart.com/product/modernize-free-bootstrap-5-admin-template/">Download Now</a>
   </td>
   <td>
-    <a href="https://adminmart.com/product/matdash-bootstrap-5-admin-dashboard-template/">Purchase Now</a>
+    <a href="https://adminmart.com/product/matdash-bootstrap-5-admin-dashboard-template/?ref=5">Purchase Now</a>
   </td>
 </tr>
 <tr>
@@ -147,8 +147,8 @@ Matdash Bootstrap 5 admin Template
 <tbody>
 <tr>
 <td>
-  <a href="https://adminmart.com/product/modernize-bootstrap-5-admin-template/?ref=5" rel="nofollow" width="150px">
-    <img src="https://adminmart.com/wp-content/uploads/2023/02/modernize-bootstrap-5-admin-template.png" alt="" style="max-width:150px;">
+  <a href="https://adminmart.com/product/matdash-bootstrap-5-admin-dashboard-template/?ref=5" rel="nofollow" width="150px">
+    <img src="https://adminmart.com/wp-content/uploads/2024/03/matdash-bootstrap-admin-dashboard.png" alt="" style="max-width:150px;">
   </a>
 </td>
 <td>
@@ -173,19 +173,19 @@ Matdash Bootstrap 5 admin Template
 
 # Upgrade to Premium version
 
-<a target="_blank" href="https://adminmart.com/product/matdash-bootstrap-5-admin-dashboard-template/">
+<a target="_blank" href="https://adminmart.com/product/matdash-bootstrap-5-admin-dashboard-template/?ref=5">
   <img src="https://adminmart.com/wp-content/uploads/2024/03/matdash-bootstrap-admin-dashboard.png" alt="">
 </a>
 <p>
   Checkout our premium version of Modernize Bootstrap Admin Lite for lots more features and ready to use page templates.<br>
-  <a href="https://adminmart.com/product/matdash-bootstrap-5-admin-dashboard-template/#product-demo-section">Check Live Preview</a> | <a href="https://adminmart.com/product/matdash-bootstrap-5-admin-dashboard-template/">Download</a>
+  <a href="https://adminmart.com/product/matdash-bootstrap-5-admin-dashboard-template/#product-demo-section">Check Live Preview</a> | <a href="https://adminmart.com/product/matdash-bootstrap-5-admin-dashboard-template/?ref=5">Download</a>
 </p>
 
 
 <!-- Useful Links of Template -->
 # Useful Links
 - <p><a href="https://adminmart.com/?ref=5">Admin Theme</a> from Adminmart</p>
-- <p><a href="https://adminmart.com/product/modernize-bootstrap-5-admin-template/?ref=5">Bootstrap Themes</a> from Adminmart</p>
+- <p><a href="https://adminmart.com/product/matdash-bootstrap-5-admin-dashboard-template/?ref=5">Bootstrap Themes</a> from Adminmart</p>
 - <p><a href="https://adminmart.com/product/modernize-free-bootstrap-5-admin-template/?ref=5">Free Bootstrap Admin Templates</a> from Adminmart</p>
 - <p><a href="https://adminmart.com/product/modernize-react-mui-dashboard-theme/?ref=5">React Bootstrap Template</a> from Adminmart</p>
 - <p><a href="https://adminmart.com/product/modernize-vuetify-vue-admin-dashboard/?ref=5">Vuejs Templates</a> from Adminmart</p>

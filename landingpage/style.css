@@ -4,7 +4,7 @@
     --bs-font-sans-serif: "Manrope",
     sans-serif;
     --bs-primary: #635bff;
-    --bs-secondary: #14e9e2;
+    --bs-secondary: #6c757d;
     --bs-danger: #ff6692;
     --bs-body-font-size: 0.875rem;
   --bs-body-font-weight: 400;
@@ -20,7 +20,7 @@
     --bs-card-spacer-x: 30px;
     --bs-card-border-width: 0px;
     --bs-success-rgb: 19,222,185;
-    --bs-primary-rgb: 93,135,255;
+    --bs-primary-rgb: 99,91,255;
     --bs-light-rgb: 246,249,252;
     --bs-dark-rgb: 42,53,71;
 }
