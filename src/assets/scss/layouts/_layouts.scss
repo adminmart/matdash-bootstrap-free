@@ -20,7 +20,11 @@
     margin-right: calc(#{$grid-gutter-width} / 2);
 
     @include media-breakpoint-down(lg){
-      margin-top: 215px;
+      margin-top: 230px;
+    }
+
+    @include media-breakpoint-down(sm){
+      margin-top: 185px;
     }
   }
 
@@ -50,7 +54,7 @@
   &[data-sidebar-position="fixed"] {
     .left-sidebar {
       position: fixed;
-      top: 65px;
+      top: 72px;
 
       @include media-breakpoint-down(lg){
         top: 131px;
