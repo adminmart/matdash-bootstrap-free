@@ -13,7 +13,7 @@
 <p>Download most useful and comprehensive 🚀 Free Bootstrap admin template built for developers 🛠</p>
 
 <a href="https://adminmart.com/product/matdash-free-bootstrap-admin/?ref=56" target="_blank">
-  <img src="https://adminmart.com/wp-content/uploads/2024/03/matdash-free-bootstrap-5-admin-dashboard.jpg" alt="Matdash Bootstrap" width="564px" height="395px">
+  <img src="https://images.adminmart.com/templates/free/matdash/matdash-free-bootstrap-5-admin-dashboard.webp" alt="Matdash Bootstrap" width="564px" height="395px">
 </a>
 
 ## 👋Introduction
@@ -116,7 +116,7 @@ The Pro Version of the **MatDash Bootstrap 5 Admin Dashboard** comes packed with
   </a>
 </div>
 
-[![MatDash Bootstrap 5 Admin Dashboard Demo Screenshot](https://adminmart.com/wp-content/uploads/2024/03/matdash-bootstrap-admin-dashboard.png)](https://adminmart.com/product/matdash-bootstrap-5-admin-dashboard-template/?ref=56)
+[![MatDash Bootstrap 5 Admin Dashboard Demo Screenshot](https://images.adminmart.com/templates/pro/matdash/matdash-bootstrap-admin-dashboard.webp)](https://adminmart.com/product/matdash-bootstrap-5-admin-dashboard-template/?ref=56)
 
 ---
 
@@ -169,17 +169,17 @@ The **Free Version** of the **MatDash Bootstrap 5 Admin Dashboard** provides a s
       <tr>	   
           <td>
            <a href="https://adminmart.com/product/matdash-tailwind-react-admin-template/?ref=56" width="150px">
-             <img src="https://adminmart.com/wp-content/uploads/2025/02/MatDash-Reactjs-tailwind_new.jpg" alt="MatDash react Admin Template" style="max-width:140px;">
+             <img src="https://images.adminmart.com/templates/pro/matdash/MatDash-Tailwind-564x395-1.webp" alt="MatDash react Admin Template" style="max-width:140px;">
            </a>
          </td>
          <td>
            <a href="https://adminmart.com/product/matdash-next-js-admin-dashboard-template/?ref=56" width="150px">
-             <img src="https://adminmart.com/wp-content/uploads/2025/01/matdash-nextjs-pro-preview.jpg" alt="MatDash Next Admin Dashboard" style="max-width:150px;">
+             <img src="https://images.adminmart.com/templates/pro/matdash/Matdash-Nextjs.webp" alt="MatDash Next Admin Dashboard" style="max-width:150px;">
            </a>
          </td> 
          <td>
            <a href="https://adminmart.com/product/matdash-material-angular-dashboard-template/?ref=56" width="150px">
-             <img src="https://adminmart.com/wp-content/uploads/2024/08/matdash-preview-angular-img.jpg" alt="MatDash Angular Material Dashboard" style="max-width:140px;">
+             <img src="https://images.adminmart.com/templates/pro/matdash/matdash-preview-angular-img.webp" alt="MatDash Angular Material Dashboard" style="max-width:140px;">
            </a>
          </td>
       </tr>
@@ -200,12 +200,12 @@ The **Free Version** of the **MatDash Bootstrap 5 Admin Dashboard** provides a s
       <tr>         
          <td>
            <a href="https://adminmart.com/product/matdash-vuejs-admin-dashboard/?ref=56" width="150px">
-             <img src="https://adminmart.com/wp-content/uploads/2024/05/matdash-vuetify-vuejs-admin-dashboard.png" alt="MatDash Vuetify & Vue Admin Dashboard" style="max-width:150px;">
+             <img src="https://images.adminmart.com/templates/pro/matdash/matdash-vuetify-vuejs-admin-dashboard.webp" alt="MatDash Vuetify & Vue Admin Dashboard" style="max-width:150px;">
            </a>
          </td>
          <td>
            <a href="https://adminmart.com/product/matdash-vuetify-nuxt-js-admin-template/?ref=56" width="150px">
-             <img src="https://adminmart.com/wp-content/uploads/2024/10/matdash-nuxtjs-pro.jpg" alt="MatDash Nuxt Js Admin Dashboard" style="max-width:150px;">
+             <img src="https://images.adminmart.com/templates/pro/matdash/matdash-nuxtjs-pro.webp" alt="MatDash Nuxt Js Admin Dashboard" style="max-width:150px;">
            </a>
          </td>
       </tr>
